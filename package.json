@@ -1,0 +1,25 @@
+{
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "description": "My first DevOps bootcamp project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidormazor42/hello-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lidormazor42/hello-devops/issues"
+  },
+  "homepage": "https://github.com/lidormazor42/hello-devops#readme"
+}
